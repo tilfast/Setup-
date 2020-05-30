@@ -24,3 +24,8 @@ https://www.newegg.com/insider/building-a-gaming-pc-for-the-first-time-dont-pani
 ### Remote Window server
 
 https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-allow-access
+
+
+### Deep Learning frameworks
+
+https://www.aithority.com/guest-authors/top-deep-learning-frameworks-of-2019-and-how-do-they-compare/
