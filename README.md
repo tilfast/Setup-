@@ -34,3 +34,8 @@ https://www.youtube.com/watch?v=47hjFcf8LKk
 ### Deep Learning frameworks
 
 https://www.aithority.com/guest-authors/top-deep-learning-frameworks-of-2019-and-how-do-they-compare/
+
+
+### Using Google Colab
+
+https://towardsdatascience.com/set-up-a-deep-learning-server-on-google-cloud-platform-b4d6823d6cd8
