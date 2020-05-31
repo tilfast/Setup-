@@ -26,6 +26,17 @@ https://www.newegg.com/insider/building-a-gaming-pc-for-the-first-time-dont-pani
 https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-allow-access
 
 
+
+### XGBoost with Colab
+
+https://towardsdatascience.com/running-xgboost-on-google-colab-free-gpu-a-case-study-841c90fef101
+
+https://medium.com/datadriveninvestor/increasing-the-power-of-xgboost-with-the-use-of-google-colabs-gpu-230f11fcdea4
+
+### Tutorial for Colab
+
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
 ### Reomte Linux Server
 
 https://www.youtube.com/watch?v=47hjFcf8LKk
